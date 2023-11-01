@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 841.889832 595.275574">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.008002em;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #3460aa;
+      }
+
+      .cls-4 {
+        letter-spacing: -.045003em;
+      }
+
+      .cls-5 {
+        fill: #1d1d1b;
+        font-family: AcuminConcept-Bold, 'Acumin Variable Concept';
+        font-size: 18px;
+        font-variation-settings: 'wght' 700, 'wdth' 100, 'slnt' 0;
+        font-weight: 700;
+      }
+
+      .cls-6 {
+        letter-spacing: .002984em;
+      }
+
+      .cls-7 {
+        fill: #b6def8;
+      }
+
+      .cls-8 {
+        letter-spacing: -.003988em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.008979em;
+      }
+
+      .cls-10 {
+        letter-spacing: .017008em;
+      }
+
+      .cls-11 {
+        fill: #f2a10c;
+      }
+
+      .cls-12 {
+        fill: #4d7cbe;
+      }
+
+      .cls-13 {
+        letter-spacing: -.009983em;
+      }
+
+      .cls-14 {
+        letter-spacing: .005995em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.000977em;
+      }
+
+      .cls-16 {
+        letter-spacing: -.006999em;
+      }
+
+      .cls-17 {
+        fill: #f4b715;
+      }
+
+      .cls-18, .cls-19, .cls-20 {
+        fill: none;
+      }
+
+      .cls-19 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-21 {
+        letter-spacing: .003988em;
+      }
+
+      .cls-20 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-22 {
+        letter-spacing: .004991em;
+      }
+
+      .cls-23 {
+        letter-spacing: -.004015em;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-18" width="841.889832" height="595.275574"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <path class="cls-7" d="m419.944916,72.4h358.041856c7.822418,0,14.173228,6.350811,14.173228,14.173228v422.373543c0,7.822418-6.350811,14.173228-14.173228,14.173228h-358.041856V72.4h0Z"/>
+    </clipPath>
+  </defs>
+  <g class="cls-19">
+    <rect class="cls-17" y="-13.32" width="420.944916" height="629.28"/>
+    <circle class="cls-11" cx="213.88" cy="650.72" r="264.88"/>
+    <rect class="cls-12" x="419.304916" y="-7.56" width="420.944916" height="624.96"/>
+    <circle class="cls-3" cx="904.297374" cy="280.9525" r="329.246929"/>
+    <circle class="cls-3" cx="750.714471" cy="567.090689" r="329.246929"/>
+  </g>
+  <g>
+    <path class="cls-7" d="m419.944916,72.4h358.041856c7.822418,0,14.173228,6.350811,14.173228,14.173228v422.373543c0,7.822418-6.350811,14.173228-14.173228,14.173228h-358.041856V72.4h0Z"/>
+    <g class="cls-20">
+      <image width="727" height="1024" transform="translate(517.756498 113.705723) scale(.376181 .359242)" xlink:href="login design1.png"/>
+    </g>
+  </g>
+  <path class="cls-2" d="m60.745686,72.277787h358.041856v450.72H60.745686c-7.822418,0-14.173228-6.350811-14.173228-14.173228V86.451015c0-7.822418,6.350811-14.173228,14.173228-14.173228Z"/>
+  <text class="cls-5" transform="translate(73.680313 205.73938)"><tspan class="cls-4" x="0" y="0">W</tspan><tspan x="16.307617" y="0">el</tspan><tspan class="cls-22" x="31.193359" y="0">c</tspan><tspan x="40.984863" y="0">om</tspan><tspan class="cls-9" x="67.102539" y="0">e</tspan><tspan x="76.930664" y="0"> </tspan><tspan class="cls-13" x="0" y="21.600098">t</tspan><tspan x="6.354004" y="21.600098">o </tspan><tspan class="cls-23" x="21.149902" y="21.600098">y</tspan><tspan x="30.419434" y="21.600098">o</tspan><tspan class="cls-14" x="40.859375" y="21.600098">u</tspan><tspan x="51.49707" y="21.600098">.</tspan></text>
+  <text class="cls-5" transform="translate(73.68032 257.579369)"><tspan class="cls-8" x="0" y="0">B</tspan><tspan x="12.078125" y="0">i</tspan><tspan class="cls-6" x="16.974121" y="0">e</tspan><tspan class="cls-16" x="27.017578" y="0">n</tspan><tspan class="cls-9" x="37.56543" y="0">v</tspan><tspan class="cls-6" x="46.799805" y="0">e</tspan><tspan class="cls-15" x="56.843262" y="0">n</tspan><tspan class="cls-21" x="67.499512" y="0">u</tspan><tspan class="cls-9" x="78.101074" y="0">e</tspan><tspan x="87.929199" y="0"> </tspan><tspan x="0" y="21.600098">à </tspan><tspan class="cls-9" x="14.417969" y="21.600098">v</tspan><tspan x="23.652344" y="21.600098">o</tspan><tspan class="cls-1" x="34.092285" y="21.600098">u</tspan><tspan class="cls-10" x="44.478027" y="21.600098">s</tspan><tspan x="54.071777" y="21.600098">.</tspan></text>
+</svg>
